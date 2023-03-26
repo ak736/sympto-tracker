@@ -69,5 +69,3 @@ def predictLiverCirrhosis():
 # Run the app
 if __name__ == '__main__':
     app.run()
-
-# how to run this and where to check for the link
