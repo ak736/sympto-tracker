@@ -31,7 +31,7 @@ The following screens are available in Sympto Tracker:
 
 ### Home Page
 
-<img src="images/Homepage.png" alt="Homepage" width="600" height="400">
+<img src="images/Home Page.png" alt="Homepage" width="600" height="400">
 
 ### Mesothelioma
 
