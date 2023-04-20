@@ -106,7 +106,3 @@ Sympto-Tracker was developed by:
 - [Harshit V](https://github.com/harshitv804)
 
 If you have any questions or feedback, please reach out to [aniketkir63@gmail.com].
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
